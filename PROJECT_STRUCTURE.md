@@ -1,7 +1,7 @@
 # Project Structure
 
 ## Frontend (client/)
-
+```bash
 client/
 ├── public/
 │ ├── index.html
@@ -24,9 +24,9 @@ client/
 │ │ └── api.js
 │ ├── App.js
 │ └── index.js
-
+```
 ## Backend (server/)
-
+```bash
 server/
 ├── config/
 │ └── db.js
@@ -44,3 +44,4 @@ server/
 │ └── auth.js
 ├── .env
 └── server.js
+```
